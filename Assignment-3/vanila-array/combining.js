@@ -1,4 +1,0 @@
-let num1=[1,2,3];
-num2=[4,5,6];
-let num3=num1.concat(num2);
-console.log(num3);
