@@ -1,5 +1,5 @@
 /** Problem -03 ( Medicine Planner ) */
- var lastDay = 4 ;
+ var lastDay = 13 ;
 //write your code here
 var number=11;
      
